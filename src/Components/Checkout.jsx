@@ -12,7 +12,7 @@ const handleCheckout = async () => {
     },
     body: JSON.stringify({ cartItems: cartdata }),
   });
-
+/////// test
   const session = await response.json();
 
   const result = await stripe.redirectToCheckout({
