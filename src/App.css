@@ -1,0 +1,75 @@
+.header{
+  background-color:skyblue;
+  height:50px;
+}
+.cart-div{
+  float: right;
+  margin:10px;
+  position:relative;
+}
+.cart-div img{
+  width:30px;
+}
+
+.cart-div  span{
+  position: absolute;
+  z-index: 5;
+  background-color: red;
+  height:20px;
+  width:20px;
+  float:right;
+  border-radius: 50%;
+  color:white;
+  text-align: center;
+  top:-10px;
+  right:0;
+}
+
+.custom-navbar {
+  background-color: #87ceeb; /* Sky blue */
+}
+
+.custom-navbar .navbar-brand:hover {
+  color: #004085 !important; /* Slightly darker blue on hover */
+}
+
+.custom-navbar .position-relative:hover img {
+  transform: scale(1.1);
+  transition: transform 0.2s ease;
+}
+
+
+/* Hover effect for table rows */
+.hover-effect:hover {
+  background-color: #f8f9fa;
+  transition: background-color 0.3s ease-in-out;
+}
+
+/* Table heading color */
+.table-primary th {
+  background-color: #f1f1f1;
+}
+
+/* Styling for the Price Details Card */
+.card {
+  border-radius: 12px;
+}
+
+/* Button styling */
+.btn-danger {
+  transition: background-color 0.3s ease-in-out;
+}
+
+.btn-danger:hover {
+  background-color: #e3342f;
+}
+
+/* Styling for card shadows */
+.card-shadow {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+body{
+  overflow-x: hidden;
+}
+

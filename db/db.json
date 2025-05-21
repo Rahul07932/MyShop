@@ -1,0 +1,370 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung 26 Ultra",
+      "price": 46340,
+      "model": "SAM-026",
+      "rate": "4.9",
+      "photo": "https://cdn1.smartprix.com/rx-irL2QXDwz-w1200-h1200/rL2QXDwz.webp",
+      "quantity": 1,
+      "category": "Mobile"
+    },
+    {
+      "id": 2,
+      "name": "Oppo A7",
+      "price": 72917,
+      "model": "OPP-007",
+      "rate": "4.4",
+      "photo": "https://i.gadgets360cdn.com/products/large/oppo-a77-4g-700x800-1659506678.jpg",
+      "quantity": 1,
+      "category": "Mobile"
+    },
+    {
+      "id": 3,
+      "name": "Google Pixel 1",
+      "price": 88252,
+      "model": "GOO-001",
+      "rate": "3.9",
+      "photo": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel.jpg",
+      "quantity": 1,
+      "category": "Mobile"
+    },
+    {
+      "id": 4,
+      "name": "OnePlus 2",
+      "price": 44203,
+      "model": "ONE-002",
+      "rate": "4.9",
+      "photo": "https://oasis.opstatics.com/content/dam/oasis/page/2022/operation/apr/in/Nord-ce2-lite-Blue.png",
+      "quantity": 1,
+      "category": "Mobile"
+    },
+    {
+      "id": 5,
+      "name": "Samsung 24 Ultra",
+      "price": 120853,
+      "model": "SAM-024",
+      "rate": "4.6",
+      "photo": "https://cdn1.smartprix.com/rx-irL2QXDwz-w1200-h1200/rL2QXDwz.webp",
+      "quantity": 1,
+      "category": "Mobile"
+    },
+    {
+      "id": 6,
+      "name": "Xiaomi Redmi Note 12",
+      "price": 28999,
+      "model": "XIA-012",
+      "rate": "4.3",
+      "photo": "https://m.media-amazon.com/images/I/81ZZPvIWnYL.jpg",
+      "quantity": 1,
+      "category": "Mobile"
+    },
+    {
+      "id": 7,
+      "name": "Vivo V27 Pro",
+      "price": 38990,
+      "model": "VIV-027",
+      "rate": "4.4",
+      "photo": "https://www.myg.in/images/thumbnails/300/300/detailed/85/image-removebg-preview_-_2024-10-29T171808.735.png.png",
+      "quantity": 1,
+      "category": "Mobile"
+    },
+    {
+      "id": 8,
+      "name": "Motorola Edge 30",
+      "price": 32999,
+      "model": "MOT-030",
+      "rate": "4.1",
+      "photo": "https://m.media-amazon.com/images/I/71m+dNHzoGL._AC_UF1000,1000_QL80_.jpg",
+      "quantity": 1,
+      "category": "Mobile"
+    },
+    {
+      "id": 9,
+      "name": "Realme GT Neo 3",
+      "price": 36999,
+      "model": "REA-003",
+      "rate": "4.2",
+      "photo": "https://rukminim3.flixcart.com/image/750/900/l3rmzrk0/mobile/h/a/n/-original-imagetmezh7hj2zk.jpeg?q=20&crop=false",
+      "quantity": 1,
+      "category": "Mobile"
+    },
+    {
+      "id": 10,
+      "name": "iPhone 13",
+      "price": 69900,
+      "model": "IPH-013",
+      "rate": "4.8",
+      "photo": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1708670560/Croma%20Assets/Communication/Mobiles/Images/243459_0_cvj2b5.png?tr=w-600",
+      "quantity": 1,
+      "category": "Mobile"
+    },
+    {
+      "id": 11,
+      "name": "Samsung 24 Ultra",
+      "price": 120853,
+      "model": "SAM-024",
+      "rate": "4.6",
+      "photo": "https://cdn1.smartprix.com/rx-irL2QXDwz-w1200-h1200/rL2QXDwz.webp",
+      "quantity": 1,
+      "category": "Mobile"
+    },
+    {
+      "id": 12,
+      "name": "Xiaomi Redmi Note 12",
+      "price": 28999,
+      "model": "XIA-012",
+      "rate": "4.3",
+      "photo": "https://m.media-amazon.com/images/I/81ZZPvIWnYL.jpg",
+      "quantity": 1,
+      "category": "Mobile"
+    },
+    {
+      "id": 13,
+      "name": "Vivo V27 Pro",
+      "price": 38990,
+      "model": "VIV-027",
+      "rate": "4.4",
+      "photo": "https://www.myg.in/images/thumbnails/300/300/detailed/85/image-removebg-preview_-_2024-10-29T171808.735.png.png",
+      "quantity": 1,
+      "category": "Mobile"
+    },
+    {
+      "id": 14,
+      "name": "Motorola Edge 30",
+      "price": 32999,
+      "model": "MOT-030",
+      "rate": "4.1",
+      "photo": "https://m.media-amazon.com/images/I/71m+dNHzoGL._AC_UF1000,1000_QL80_.jpg",
+      "quantity": 1,
+      "category": "Mobile"
+    },
+    {
+      "id": 15,
+      "name": "Realme GT Neo 3",
+      "price": 36999,
+      "model": "REA-003",
+      "rate": "4.2",
+      "photo": "https://rukminim3.flixcart.com/image/750/900/l3rmzrk0/mobile/h/a/n/-original-imagetmezh7hj2zk.jpeg?q=20&crop=false",
+      "quantity": 1,
+      "category": "Mobile"
+    },
+    
+  
+    {
+      "id":16 ,
+      "name": "IPhone 13",
+      "price": 69900,
+      "model": "IPH-013",
+      "rate": "4.8",
+      "photo": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1708670560/Croma%20Assets/Communication/Mobiles/Images/243459_0_cvj2b5.png?tr=w-600",
+      "quantity": 1,
+      "category": "Mobile"
+    },
+    
+
+  {
+    "id": 17,
+    "name": "Dell XPS 13",
+    "price": 99999,
+    "model": "DEL-XPS13",
+    "rate": "4.5",
+    "photo": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/xps-notebooks/xps-13-9350/media-gallery/platinum/notebook-xps-13-9350-t-oled-sl-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=699&qlt=100,1&resMode=sharp2&size=699,402&chrss=full",
+    "quantity": 1,
+    "category": "Laptop"
+  },
+  {
+    "id": 18,
+    "name": "HP Spectre x360",
+    "price": 109999,
+    "model": "HP-SPX360",
+    "rate": "4.4",
+    "photo": "https://in-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/c/0/c08828291-touch_1.png",
+    "quantity": 1,
+    "category": "Laptop"
+  },
+  {
+    "id": 19,
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "price": 124999,
+    "model": "LEN-X1C",
+    "rate": "4.6",
+    "photo": "https://p1-ofp.static.pub//fes/cms/2024/08/08/7awauyy7km5d1zq66pypo0ezc4h6f7268280.png",
+    "quantity": 1,
+    "category": "Laptop"
+  },
+  {
+    "id": 20,
+    "name": "Sony WH-1000XM4 Headphones",
+    "price": 24999,
+    "model": "SONY-WH1000XM4",
+    "rate": "4.8",
+    "photo": "https://www.sony.co.in/image/5d02da5df552836db894cead8a68f5f3?fmt=pjpeg&wid=165&bgcolor=FFFFFF&bgc=FFFFFF",
+    "quantity": 1,
+    "category": "Headphones"
+  },
+  {
+    "id": 21,
+    "name": "Bose QuietComfort 35 II",
+    "price": 22999,
+    "model": "BOSE-QC35II",
+    "rate": "4.7",
+    "photo": "https://assets.bose.com/content/dam/cloudassets/Bose_DAM/Web/consumer_electronics/global/products/headphones/qc35_ii/product_silo_images/qc35_ii_le_midnight_blue_hero.PNG/_jcr_content/renditions/cq5dam.web.1280.1280.png",
+    "quantity": 1,
+    "category": "Headphones"
+  },
+  {
+    "id": 22,
+    "name": "Apple AirPods Pro 2",
+    "price": 25900,
+    "model": "APL-AIRP2",
+    "rate": "4.9",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmpTyclaEb_DgecaGnL3nTW5mqteKbHh0Cw&s",
+    "quantity": 1,
+    "category": "AirPods"
+  },
+  {
+    "id": 23,
+    "name": "JBL Flip 6 Speaker",
+    "price": 8999,
+    "model": "JBL-FLIP6",
+    "rate": "4.6",
+    "photo": "https://in.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwa6c67e23/pdp/JBL_Flip_6_Lifestyle_01_904x560px.png?sw=904&sh=560",
+    "quantity": 1,
+    "category": "Speaker"
+  },
+  {
+    "id": 24,
+    "name": "Sony SRS-XB33 Speaker",
+    "price": 10999,
+    "model": "SONY-SRSXB33",
+    "rate": "4.5",
+    "photo": "https://i.rtings.com/assets/products/Wv6VPK2m/sony-srs-xb33/design-medium.jpg?format=auto",
+    "quantity": 1,
+    "category": "Speaker"
+  },
+  {
+    "id": 25,
+    "name": "Beats Studio3 Wireless",
+    "price": 29999,
+    "model": "BEATS-ST3",
+    "rate": "4.4",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcH4QeZWzyhoYUyJ-_w57ubsR6eNOKmYCs_w&s",
+    "quantity": 1,
+    "category": "Headphones"
+  },
+
+  {
+    "id": 26,
+    "name": "Google Pixel 6",
+    "price": 54999,
+    "model": "GOO-006",
+    "rate": "4.6",
+    "photo": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6.jpg",
+    "quantity": 1,
+    "category": "Mobile"
+  },
+  {
+    "id": 27,
+    "name": "OnePlus 9",
+    "price": 49999,
+    "model": "ONE-009",
+    "rate": "4.3",
+    "photo": "https://api.ovantica.com/prisma/ovanticainventory/images/Astralblack_9-min.png",
+    "quantity": 1,
+    "category": "Mobile"
+  },
+  {
+    "id": 28,
+    "name": "Samsung Galaxy Buds 2",
+    "price": 9999,
+    "model": "SAM-BUDS2",
+    "rate": "4.5",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEtVSAMx3xNVxkh_sf3Kw-ZzjBr2CSqulE7w&s",
+    "quantity": 1,
+    "category": "AirPods"
+  },
+  {
+    "id": 29,
+    "name": "Anker Soundcore Liberty Air 2",
+    "price": 5999,
+    "model": "ANK-LIBAIR2",
+    "rate": "4.2",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSupaE6Krvx9FjVFH5HNJwr9WLXfZQVSfkN6w&s",
+    "quantity": 1,
+    "category": "AirPods"
+  },
+  {
+    "id": 30,
+    "name": "HP Pavilion 15 Laptop",
+    "price": 65999,
+    "model": "HP-PAV15",
+    "rate": "4.3",
+    "photo": "https://m.media-amazon.com/images/I/81H2G8TsOIL._AC_UF1000,1000_QL80_.jpg",
+    "quantity": 1,
+    "category": "Laptop"
+  },
+  {
+    "id": 31,
+    "name": "ASUS ROG Zephyrus",
+    "price": 129999,
+    "model": "ASUS-ROG",
+    "rate": "4.7",
+    "photo": "https://www.primeabgb.com/wp-content/uploads/2025/05/ASUS-ROG-Zephyrus-G14-14-inch-AMD-Ryzen-AI-9-HX-370-RTX-5070-Ti-GPU-32GB-RAM-2TB-SSD-Gaming-Laptop-GA403WR-QS123WS.jpg",
+    "quantity": 1,
+    "category": "Laptop"
+  },
+  {
+    "id": 32,
+    "name": "Lenovo Legion 5",
+    "price": 109999,
+    "model": "LEN-LEG5",
+    "rate": "4.6",
+    "photo": "https://www.primeabgb.com/wp-content/uploads/2025/05/ASUS-ROG-Zephyrus-G14-14-inch-AMD-Ryzen-AI-9-HX-370-RTX-5070-Ti-GPU-32GB-RAM-2TB-SSD-Gaming-Laptop-GA403WR-QS123WS.jpg",
+    "quantity": 1,
+    "category": "Laptop"
+  },
+  {
+    "id": 33,
+    "name": "JBL Charge 5 Speaker",
+    "price": 14999,
+    "model": "JBL-CHG5",
+    "rate": "4.7",
+    "photo": "https://rukminim2.flixcart.com/image/850/1000/kwmfqfk0/speaker/l/p/u/-original-imag993z4h5z5byp.jpeg?q=90&crop=false",
+    "quantity": 1,
+    "category": "Speaker"
+  },
+  {
+    "id": 34,
+    "name": "Marshall Emberton Speaker",
+    "price": 13999,
+    "model": "MAR-EMB",
+    "rate": "4.5",
+    "photo": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725877313/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/310955_0_d4cre2.png",
+    "quantity": 1,
+    "category": "Speaker"
+  },
+  {
+    "id": 35,
+    "name":"Apple AirPods Max ",
+    "price": 54900,
+    "model": "APL-AIRM",
+    "rate": "4.8",
+    "photo": "https://store.storeimages.cdn-apple.com/1/as-images.apple.com/is/airpods-max-hero-select-202409_FMT_WHH?wid=752&hei=636&fmt=jpeg&qlt=90&.v=WXBZVEZCOUNiUWlBYUtjZmtBc0J2MGkxeEVQUXVsbFk4WEhBc0JFOWdSN2pmMHBIdXRoME5iSzRYUmF4Y3dVRy81NGMrcU1sYkxwTFJaVHI1NEQzenBJRnRzZXYwZVJMZmZQVjdBR0RkVVNpdi91OXpsc3gvUHZvVGU1aUpOaFE",
+    "quantity": 1,
+    "category": "Headphones"
+  },
+  {
+   "id": 36,
+    "name": "Marshall Emberton Speaker",
+    "price": 13999,
+    "model": "MAR-EMB",
+    "rate": "4.5",
+    "photo": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1725877313/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/310955_0_d4cre2.png",
+    "quantity": 1,
+    "category": "Speaker"
+  }
+  ]
+}
+
